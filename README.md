@@ -1,1 +1,7 @@
 # Machine_learning_specialization_Andrew_NG
+
+contains : 
+
+1]1_Supervised_ML_Regression_and_Classification_ANG
+
+2]2_Advanced_Learning_Algorithms_ANG
